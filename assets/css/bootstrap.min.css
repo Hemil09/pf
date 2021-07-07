@@ -69,7 +69,7 @@ hr:not([size]) {
 	margin-bottom: .5rem;
 	font-weight: 500;
 	line-height: 1.2;
-	color: #32393f
+	color: #fff
 }
 .h1, h1 {
 	font-size: calc(1.375rem + 1.5vw)
@@ -1842,7 +1842,7 @@ textarea.form-control-lg {
 	line-height: 1.5;
 	color: #212529;
 	vertical-align: middle;
-	background-color: #fff;
+	background-color: #1e1e1e;
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
 	background-repeat: no-repeat;
 	background-position: right .75rem center;
@@ -3505,7 +3505,7 @@ textarea.form-control-lg {
 	flex-direction: column;
 	min-width: 0;
 	word-wrap: break-word;
-	background-color: #fff;
+	background-color: #171717;
 	background-clip: border-box;
 	border: 0 solid transparent;
 	border-radius: .25rem;
